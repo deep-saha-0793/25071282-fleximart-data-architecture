@@ -1,0 +1,21 @@
+FlexiMart Data Quality Report
+========================================
+Generated on: 2026-01-07 23:19:28.744223
+
+Table: Customers
+  Records Read: 25
+  Duplicates Removed: 1
+  Missing Values Handled: 5
+  Records Loaded: 24
+
+Table: Products
+  Records Read: 20
+  Duplicates Removed: 0
+  Missing Values Handled: 4
+  Records Loaded: 20
+
+Table: Sales
+  Records Read: 40
+  Duplicates Removed: 1
+  Missing Values Handled: 5
+  Records Loaded: 34
