@@ -1,5 +1,5 @@
 # Part 3 — Data Warehouse Star Schema Design
-**Student:** [Your Name]  
+**Student:** [Deep Saha]  
 **Course:** FlexiMart Data Architecture Project
 
 ---
